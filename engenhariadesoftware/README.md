@@ -19,3 +19,44 @@ Controle de Qualidade vs. Velocidade de Entrega:
 
 Descrição: Aumentar o controle de qualidade pode atrasar lançamentos, enquanto priorizar a velocidade pode resultar em bugs.
 Explicação: É fundamental equilibrar a entrega rápida e a manutenção da qualidade do produto.
+
+
+Classe: Tarefa 
+
+classes: 
+titulo
+descricao
+status
+
+e o metodo no final do processo, adiciona-se: 
+marcarComoConcluida()
+
+JAVA:
+public class Tarefa {
+    private String titulo;
+    private String descricao;
+    private String status;
+    
+public Tarefa(String titulo, String descricao) {
+        this.titulo = titulo;
+        this.descricao = descricao;
+        this.status = "Pendente";
+   }
+ public void marcarComoConcluida() {
+        this.status = "Concluída";
+    }
+  
+}
+
+TESTE:
+import org.junit.Test;
+import static org.junit.Assert.*;
+
+public class TarefaTest {
+    @Test
+    public void testMarcarComoConcluida() {
+        Tarefa tarefa = new Tarefa("Tarefa 1", "Descrição da Tarefa");
+        tarefa.marcarComoConcluida();
+        assertEquals("Concluída", tarefa.getStatus());
+    }
+}
