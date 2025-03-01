@@ -34,7 +34,6 @@ e o metodo no final do processo, adiciona-se:
 
 ### JAVA:
 
-```java
 public class Tarefa {
     private String titulo;
     private String descricao;
@@ -50,3 +49,4 @@ public class Tarefa {
         this.status = "Concluída";
     }
 }
+
