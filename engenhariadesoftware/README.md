@@ -34,6 +34,9 @@ e o metodo no final do processo, adiciona-se:
 
 ### JAVA:
 
+## Classe Tarefa
+
+```java
 public class Tarefa {
     private String titulo;
     private String descricao;
@@ -44,9 +47,29 @@ public class Tarefa {
         this.descricao = descricao;
         this.status = "Pendente";
     }
-    
+
     public void marcarComoConcluida() {
         this.status = "Concluída";
     }
 }
+```
+
+## Teste 
+
+```java
+import org.junit.Test;
+import static org.junit.Assert.*;
+
+public class TarefaTest {
+    @Test
+    public void testMarcarComoConcluida() {
+        Tarefa tarefa = new Tarefa("Tarefa 1", "Descrição da Tarefa");
+        tarefa.marcarComoConcluida();
+        assertEquals("Concluída", tarefa.getStatus());
+    }
+}
+public String getStatus() {
+    return this.status;
+}
+```
 
