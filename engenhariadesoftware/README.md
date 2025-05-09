@@ -31,6 +31,7 @@ No segundo trecho, a noção de "engenharia de software" é ampliada para inclui
 
 e o metodo no final do processo, adiciona-se:  
 - marcarComoConcluida()
+![dd30e703-4a08-4a9f-afe6-df3610f81b88](https://github.com/user-attachments/assets/b2fa1308-9d47-4874-bf35-1d2adb7829b8)
 
 ### JAVA:
 
