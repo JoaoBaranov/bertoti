@@ -1,5 +1,14 @@
 # Strategy Antipattern
 
-O antipadrão do strategy se baseia em herança, ou seja, duplicação de código. Pois eu preciso alterar as classes e possivelmente a duplicação surge pela hereditariedade da classe pai.
+O antipadrao do Strategy ocorre quando a classe principal concentra as regras dos algoritmos em condicionais. No exemplo, `PedidoAntiPattern` decide a forma de pagamento com `if/else`, dificultando a adicao de novos pagamentos.
 
-<img src="antipadrao.jpg" width="500">
+<img src="antipadraoST.jpg" width="600">
+
+## Como executar
+
+Na pasta `StrategyAntiPadrao`:
+
+```bash
+javac -d out src/main/java/org/example/*.java
+java -cp out org.example.Main
+```

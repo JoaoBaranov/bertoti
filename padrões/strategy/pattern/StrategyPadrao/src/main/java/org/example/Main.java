@@ -1,24 +1,16 @@
 package org.example;
 
-import org.example.entity.Frete;
-import org.example.entity.strategys.Pac;
-import org.example.entity.strategys.Retirada;
-import org.example.entity.strategys.Sedex;
-
 public class Main {
     public static void main(String[] args) {
+        Pedido pedido = new Pedido("1024", 63.40);
 
-        Frete frete = new Frete(new Retirada());
+        pedido.setPagamentoStrategy(new PagamentoPix());
+        pedido.confirmarPagamento();
 
-        // Frete por Retirada
-        frete.calcularFrete(2.5);
+        pedido.setPagamentoStrategy(new PagamentoCartao(2));
+        pedido.confirmarPagamento();
 
-        // Frete por PAC
-        frete.setTipoDeFrete(new Pac());
-        frete.calcularFrete(2.5);
-
-        // Frete por SEDEX
-        frete.setTipoDeFrete(new Sedex());
-        frete.calcularFrete(2.5);
+        pedido.setPagamentoStrategy(new PagamentoBoleto());
+        pedido.confirmarPagamento();
     }
 }

@@ -1,5 +1,14 @@
 # Observer Antipattern
 
-O antipadrão do Observer ocorre quando o Subject conhece diretamente os tipos concretos dos seus observadores, criando um acoplamento forte entre eles.
+O antipadrao do Observer ocorre quando o objeto observado conhece diretamente os tipos concretos dos seus observadores. No exemplo, `GerenciadorPedidoAntiPattern` chama email, SMS e push manualmente, criando acoplamento forte.
 
-<img src="antipadraoOb.jpg" width="500">
+<img src="antipadraoOb.jpg" width="600">
+
+## Como executar
+
+Na pasta `ObserverAntiPadrao`:
+
+```bash
+javac -d out src/main/java/org/example/*.java
+java -cp out org.example.Main
+```
