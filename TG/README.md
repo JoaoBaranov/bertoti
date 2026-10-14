@@ -11,6 +11,8 @@ Este diretório reúne os portfólios dos quatro primeiros projetos integradores
 3. [Proficio](portfolio-03-proficio.md)
 4. [Trivio](portfolio-04-trivio.md)
 
+As fontes utilizadas estão reunidas em [Referências](referencias.md).
+
 ## Estrutura dos relatos
 
 Cada portfólio apresenta o contexto do projeto, o problema abordado, a solução desenvolvida, as tecnologias utilizadas, as contribuições individuais, os aprendizados e as referências consultadas.
