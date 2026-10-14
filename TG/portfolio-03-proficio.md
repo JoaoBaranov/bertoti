@@ -12,16 +12,23 @@ O projeto propõe uma plataforma interna para mapear competências técnicas, so
 
 ## Solução desenvolvida
 
-> Completar com as funcionalidades confirmadas no repositório e na apresentação do projeto.
+A plataforma permite que colaboradores mantenham perfis profissionais com competências, soft skills, certificações e experiências. Gestores podem complementar os perfis com tags e avaliações, buscar pessoas por habilidades e analisar a distribuição de competências da empresa.
+
+O desenvolvimento foi organizado em três sprints, com backlog priorizado, branches de sprint e branches específicas para cada tarefa.
 
 ## Tecnologias
 
-> Completar a partir do projeto final.
+- Java e Spring
+- TypeScript e JavaScript
+- HTML e CSS
+- MySQL
+- Docker
+- Git e GitHub
 
 ## Minha contribuição
 
-> Preencher com as funcionalidades e atividades realizadas individualmente.
+Atuei como desenvolvedor da equipe. A funcionalidade específica implementada por mim deve ser confirmada no histórico de issues, branches e commits do projeto.
 
 ## Aprendizados
 
-> Preencher após confirmar os principais desafios e aprendizados.
+O projeto proporcionou experiência com desenvolvimento web, autenticação, organização de backlog, trabalho em sprints e construção de uma solução voltada à gestão de pessoas.
