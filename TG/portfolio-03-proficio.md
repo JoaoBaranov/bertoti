@@ -27,7 +27,7 @@ O desenvolvimento foi organizado em três sprints, com backlog priorizado, branc
 
 ## Minha contribuição
 
-Atuei como desenvolvedor da equipe. A funcionalidade específica implementada por mim deve ser confirmada no histórico de issues, branches e commits do projeto.
+Atuei como desenvolvedor com participação nas diferentes etapas do projeto: levantamento de requisitos, priorização do backlog, desenvolvimento, testes, documentação e revisão das entregas. Colaborei com a equipe na construção das funcionalidades da plataforma e nos ajustes realizados durante as três sprints.
 
 ## Aprendizados
 
