@@ -24,7 +24,7 @@ O sistema permite cadastrar, editar e excluir disciplinas, professores, cursos e
 
 ## Minha contribuição
 
-Atuei como desenvolvedor da equipe. As funcionalidades específicas sob minha responsabilidade devem ser confirmadas a partir do histórico de commits e das entregas das sprints.
+Atuei como desenvolvedor com participação nas diferentes etapas do projeto: entendimento dos requisitos, organização do backlog, implementação, testes, documentação e revisão das entregas. Também colaborei com a equipe na construção das regras de horários e na validação das funcionalidades.
 
 ## Aprendizados
 
