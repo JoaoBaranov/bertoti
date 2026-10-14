@@ -27,7 +27,7 @@ O trabalho foi organizado em três sprints, com backlog de histórias de usuári
 
 ## Minha contribuição
 
-Atuei como desenvolvedor da equipe. A funcionalidade específica implementada por mim deve ser confirmada no histórico de issues, branches e commits do projeto.
+Atuei como desenvolvedor com participação nas diferentes etapas do projeto: entendimento do problema, organização do backlog, implementação, testes, documentação e revisão das entregas. Colaborei com a equipe nas funcionalidades de gerenciamento de equipamentos, técnicos e manutenções.
 
 ## Aprendizados
 
