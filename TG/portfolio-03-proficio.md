@@ -1,34 +1,49 @@
 # Portfólio 3 — Proficio
 
-## Identificação
+## Período e equipe
 
-- Projeto: Proficio — Mapeamento de Competências
-- Repositório: [Concord-API/API-3](https://github.com/Concord-API/API-3)
-- Período: a confirmar
+O projeto foi desenvolvido no terceiro projeto integrador e está disponível no repositório [Concord-API/API-3](https://github.com/Concord-API/API-3). O produto recebeu o nome Proficio — Mapeamento de Competências.
 
-## Contexto e problema
+## Problema
 
-O projeto propõe uma plataforma interna para mapear competências técnicas, soft skills, certificações e experiências dos colaboradores.
+A empresa precisava identificar competências, experiências e níveis de proficiência dos colaboradores. Sem uma plataforma centralizada, era difícil encontrar profissionais por habilidade, organizar equipes e apoiar decisões dos gestores.
 
-## Solução desenvolvida
+## Solução entregue pela equipe
 
-A plataforma permite que colaboradores mantenham perfis profissionais com competências, soft skills, certificações e experiências. Gestores podem complementar os perfis com tags e avaliações, buscar pessoas por habilidades e analisar a distribuição de competências da empresa.
+O Proficio funciona como um LinkedIn interno. Colaboradores mantêm perfis com competências técnicas, soft skills, certificações e experiências. Gestores podem complementar perfis com tags e avaliações, buscar colaboradores por habilidades e analisar a distribuição de competências. O desenvolvimento foi dividido em três sprints, com backlog priorizado e branches específicas para cada tarefa.
 
-O desenvolvimento foi organizado em três sprints, com backlog priorizado, branches de sprint e branches específicas para cada tarefa.
+## Tecnologias utilizadas
 
-## Tecnologias
+- Java e Spring;
+- TypeScript, JavaScript, HTML e CSS;
+- MySQL;
+- Docker;
+- Git e GitHub;
+- IntelliJ e Visual Studio Code.
 
-- Java e Spring
-- TypeScript e JavaScript
-- HTML e CSS
-- MySQL
-- Docker
-- Git e GitHub
+## Contribuições pessoais
 
-## Minha contribuição
+Atuei como desenvolvedor com participação no levantamento de requisitos, priorização do backlog, desenvolvimento, testes, documentação e revisão das entregas. Colaborei na construção das funcionalidades e nos ajustes realizados durante as três sprints.
 
-Atuei como desenvolvedor com participação nas diferentes etapas do projeto: levantamento de requisitos, priorização do backlog, desenvolvimento, testes, documentação e revisão das entregas. Colaborei com a equipe na construção das funcionalidades da plataforma e nos ajustes realizados durante as três sprints.
+## Hard skills
 
-## Aprendizados
+- Java e Spring;
+- TypeScript e JavaScript;
+- HTML, CSS e Tailwind;
+- MySQL;
+- Docker;
+- Git e GitHub;
+- Desenvolvimento de APIs e aplicações web.
 
-O projeto proporcionou experiência com desenvolvimento web, autenticação, organização de backlog, trabalho em sprints e construção de uma solução voltada à gestão de pessoas.
+## Soft skills
+
+- Comunicação;
+- Organização de backlog;
+- Trabalho em sprints;
+- Responsabilidade compartilhada;
+- Resolução de problemas;
+- Adaptação a mudanças de escopo.
+
+## Aprendizados e resultado
+
+O projeto proporcionou experiência com desenvolvimento web, autenticação, perfis de acesso, modelagem de competências e organização ágil. A entrega transformou informações dispersas sobre colaboradores em uma plataforma de consulta e apoio à gestão de pessoas.

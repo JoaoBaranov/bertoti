@@ -1,28 +1,43 @@
 # Portfólio 1 — API-Concord
 
-## Identificação
+## Período e equipe
 
-- Projeto: API-Concord
-- Repositório: [RichardCordeiro/API-Concord](https://github.com/RichardCordeiro/API-Concord)
-- Período: a confirmar
-- Equipe: Victor Nogueira, Richard Cordeiro, João Vitor Araujo Baranov, Fabiano Ribeiro, Marco Godoi e Carlos Costa
+O projeto foi desenvolvido no primeiro projeto integrador e está disponível no repositório [API-Concord](https://github.com/RichardCordeiro/API-Concord). A equipe foi formada por Victor Nogueira, Richard Cordeiro, João Vitor Araujo Baranov, Fabiano Ribeiro, Marco Godoi e Carlos Costa.
 
-## Contexto e problema
+## Problema
 
-O projeto propõe uma calculadora científica desenvolvida em Portugol, com um menu para seleção das operações matemáticas.
+O desafio era criar uma aplicação introdutória que reunisse operações matemáticas em um único fluxo, permitindo que o usuário escolhesse a operação e recebesse o resultado de forma simples.
 
-## Solução desenvolvida
+## Solução entregue pela equipe
 
-A aplicação reúne operações básicas, cálculo de fatorial, função de segundo grau, concatenação de strings, juros simples e compostos e conversões entre bases numéricas.
+Foi desenvolvida uma calculadora científica em Portugol com menu de escolha. A aplicação implementa adição, subtração, multiplicação, divisão, fatorial, função de segundo grau, concatenação de strings, juros simples e compostos e conversões entre as bases 2, 8, 10 e 16.
 
-## Tecnologias
+## Tecnologias utilizadas
 
-- Portugol
+- Portugol para a lógica da aplicação;
+- GitHub para versionamento e colaboração;
+- README para documentação do projeto.
 
-## Minha contribuição
+## Contribuições pessoais
 
-Participei de diferentes etapas do projeto, contribuindo para o levantamento das necessidades, a organização das atividades, a implementação das operações da calculadora, os testes e a documentação da solução. Como o desenvolvimento foi colaborativo, atuei conforme as necessidades da equipe em cada etapa.
+Participei das etapas de entendimento do problema, organização das atividades, implementação das operações, testes e documentação. Também colaborei nas revisões da lógica e na conferência dos resultados apresentados pelo menu.
 
-## Aprendizados
+## Hard skills
 
-O projeto fortaleceu minha base de lógica de programação, decomposição de problemas, trabalho em equipe e validação de entradas e resultados.
+- Lógica de programação;
+- Portugol;
+- Estruturas condicionais e de repetição;
+- Funções e validação de resultados;
+- Git e GitHub.
+
+## Soft skills
+
+- Trabalho em equipe;
+- Comunicação;
+- Organização;
+- Resolução de problemas;
+- Adaptação a tarefas diferentes.
+
+## Aprendizados e resultado
+
+O projeto consolidou minha base de lógica de programação e mostrou a importância de decompor um problema em funções menores. A entrega resultou em uma calculadora com menu e operações variadas.

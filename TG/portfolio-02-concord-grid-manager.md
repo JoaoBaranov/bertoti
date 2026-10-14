@@ -1,31 +1,45 @@
 # Portfólio 2 — Concord Grid Manager
 
-## Identificação
+## Período e equipe
 
-- Projeto: Concord Grid Manager
-- Repositório: [Concord-API/API-2](https://github.com/Concord-API/API-2)
-- Período: a confirmar
+O projeto foi desenvolvido no segundo projeto integrador e está disponível no repositório [Concord-API/API-2](https://github.com/Concord-API/API-2).
 
-## Contexto e problema
+## Problema
 
-O projeto trata da criação de uma grade de horários acadêmicos, considerando a carga semanal das disciplinas e evitando conflitos de alocação.
+A montagem manual de uma grade de aulas exige controlar disciplinas, professores, cursos, turmas, horários e cargas semanais. Sem validações, o mesmo professor pode ser alocado em duas aulas no mesmo horário.
 
-## Solução desenvolvida
+## Solução entregue pela equipe
 
-O sistema permite cadastrar, editar e excluir disciplinas, professores, cursos e turmas. Também oferece a montagem e a visualização da grade, edição manual antes da publicação, validação de conflitos de horários e organização do semestre letivo.
+O sistema permite cadastrar, editar e excluir disciplinas, professores, cursos e turmas. Também monta e exibe a grade, permite ajustes manuais antes da publicação, organiza o semestre e avisa sobre conflitos de horários, professores ou salas. O trabalho foi organizado por histórias de usuário e sprints.
 
-## Tecnologias
+## Tecnologias utilizadas
 
-- JavaFX
-- Java
-- Maven
-- Scene Builder
-- MySQL
+- Java e JavaFX;
+- MySQL;
+- Maven;
+- Scene Builder e IntelliJ;
+- Git e GitHub.
 
-## Minha contribuição
+## Contribuições pessoais
 
-Atuei como desenvolvedor com participação nas diferentes etapas do projeto: entendimento dos requisitos, organização do backlog, implementação, testes, documentação e revisão das entregas. Também colaborei com a equipe na construção das regras de horários e na validação das funcionalidades.
+Atuei como desenvolvedor e participei do entendimento dos requisitos, organização do backlog, implementação, testes, documentação e revisão das entregas. Colaborei na construção das regras de horários e na validação das funcionalidades de cadastro e organização da grade.
 
-## Aprendizados
+## Hard skills
 
-O projeto desenvolveu conhecimentos sobre aplicações desktop, modelagem de dados, regras para evitar conflitos de agenda e organização de funcionalidades em sprints.
+- Java e JavaFX;
+- MySQL;
+- Modelagem de dados;
+- Regras de negócio;
+- Maven e Git.
+
+## Soft skills
+
+- Trabalho colaborativo;
+- Comunicação;
+- Organização de tarefas em sprint;
+- Análise de conflitos;
+- Documentação técnica.
+
+## Aprendizados e resultado
+
+O projeto desenvolveu minha experiência com aplicações desktop e mostrou como regras de negócio precisam ser convertidas em validações claras. A equipe entregou uma solução capaz de organizar a grade e reduzir erros de alocação.

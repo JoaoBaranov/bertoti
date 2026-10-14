@@ -1,34 +1,49 @@
 # Portfólio 4 — Trivio
 
-## Identificação
+## Período e equipe
 
-- Projeto: Trivio — Gerenciamento de manutenções
-- Repositório: [Concord-API/API-4](https://github.com/Concord-API/API-4)
-- Período: a confirmar
+O projeto foi desenvolvido no quarto projeto integrador e está disponível no repositório [Concord-API/API-4](https://github.com/Concord-API/API-4). O produto recebeu o nome Trivio — Gerenciamento de Manutenções.
 
-## Contexto e problema
+## Problema
 
-O projeto propõe uma plataforma para registrar equipamentos, planejar manutenções periódicas e organizar intervenções técnicas em diferentes localidades e contratos.
+A empresa precisava controlar equipamentos distribuídos globalmente, contratos, técnicos e manutenções recorrentes. A falta de centralização dificultava escolher o técnico adequado, planejar viagens, acompanhar serviços e documentar o trabalho realizado.
 
-## Solução desenvolvida
+## Solução entregue pela equipe
 
-A plataforma centraliza o cadastro de técnicos e equipamentos, o planejamento de manutenções recorrentes, a alocação de atividades, o acompanhamento das execuções, a documentação do serviço e a visualização das manutenções em mapa.
+O Trivio centraliza técnicos e equipamentos, requisitos de atendimento, manutenções recorrentes, alocação de atividades e acompanhamento das execuções. A plataforma também permite documentar a manutenção, criar processos específicos para contratos, exibir atividades em mapa e emitir alertas. O trabalho foi organizado em três sprints, com manual de uso, guia de instalação e vídeos das entregas.
 
-O trabalho foi organizado em três sprints, com backlog de histórias de usuário, documentação de instalação, manual de uso e vídeos das entregas.
+## Tecnologias utilizadas
 
-## Tecnologias
+- Java e Spring;
+- JavaScript, TypeScript, HTML e CSS;
+- Vue.js;
+- Oracle Database;
+- Docker;
+- Git e GitHub.
 
-- Java e Spring
-- JavaScript, TypeScript, HTML e CSS
-- Vue.js
-- Oracle Database
-- Docker
-- Git e GitHub
+## Contribuições pessoais
 
-## Minha contribuição
+Atuei como desenvolvedor e participei do entendimento do problema, organização do backlog, implementação, testes, documentação e revisão das entregas. Colaborei nas funcionalidades de gerenciamento de equipamentos, técnicos e manutenções, além dos ajustes feitos durante as sprints.
 
-Atuei como desenvolvedor com participação nas diferentes etapas do projeto: entendimento do problema, organização do backlog, implementação, testes, documentação e revisão das entregas. Colaborei com a equipe nas funcionalidades de gerenciamento de equipamentos, técnicos e manutenções.
+## Hard skills
 
-## Aprendizados
+- Java e Spring;
+- Vue.js;
+- JavaScript e TypeScript;
+- Oracle Database;
+- Docker;
+- Git e GitHub;
+- Integração entre frontend e backend.
 
-O projeto consolidou conhecimentos de desenvolvimento web, integração entre frontend e backend, planejamento de manutenção, trabalho com banco de dados e organização ágil de entregas.
+## Soft skills
+
+- Trabalho em equipe;
+- Planejamento de tarefas;
+- Comunicação técnica;
+- Organização de prioridades;
+- Resolução de problemas;
+- Visão de processo e de usuário.
+
+## Aprendizados e resultado
+
+O projeto consolidou conhecimentos de desenvolvimento web, integração entre camadas, banco de dados e planejamento de operações. A equipe entregou uma plataforma para acompanhar o ciclo da manutenção, desde o cadastro do equipamento até o registro do serviço realizado.
