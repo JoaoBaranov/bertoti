@@ -2,6 +2,7 @@ from docx import Document
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.shared import Cm, Pt
 from docx.oxml.ns import qn
+from html import escape
 
 doc = Document()
 sec = doc.sections[0]
@@ -78,3 +79,17 @@ h('Referências')
 for ref in ['CORDEIRO, Richard et al. API-Concord. GitHub. Disponível em: https://github.com/RichardCordeiro/API-Concord. Acesso em: 14 out. 2026.', 'CONCORD-API. API-2. GitHub. Disponível em: https://github.com/Concord-API/API-2. Acesso em: 14 out. 2026.', 'CONCORD-API. API-3. GitHub. Disponível em: https://github.com/Concord-API/API-3. Acesso em: 14 out. 2026.', 'CONCORD-API. API-4. GitHub. Disponível em: https://github.com/Concord-API/API-4. Acesso em: 14 out. 2026.', 'FATEC PROFESSOR JESSEN VIDAL. Modelo de portfólio de aprendizagem de projetos integrados. São José dos Campos, 2026.']:
     para(ref)
 doc.save('portfolio-academico.docx')
+html_parts = ['<html><head><meta charset="utf-8"><style>body{font-family:"Times New Roman";font-size:12pt;line-height:1.5;margin:3cm 2cm 2cm 3cm}h1{font-size:14pt}h2{font-size:12pt}</style></head><body>']
+for paragraph in doc.paragraphs:
+    text = escape(paragraph.text)
+    if paragraph.style.name == 'Title':
+        html_parts.append(f'<h1 style="text-align:center">{text}</h1>')
+    elif paragraph.style.name == 'Heading 1':
+        html_parts.append(f'<h1>{text}</h1>')
+    elif paragraph.style.name == 'Heading 2':
+        html_parts.append(f'<h2>{text}</h2>')
+    else:
+        html_parts.append(f'<p>{text}</p>')
+html_parts.append('</body></html>')
+with open('portfolio-academico.doc', 'w', encoding='utf-8') as file:
+    file.write('\n'.join(html_parts))

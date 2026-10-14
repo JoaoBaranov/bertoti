@@ -1,0 +1,55 @@
+<html><head><meta charset="utf-8"><style>body{font-family:"Times New Roman";font-size:12pt;line-height:1.5;margin:3cm 2cm 2cm 3cm}h1{font-size:14pt}h2{font-size:12pt}</style></head><body>
+<h1 style="text-align:center">JOÃO VITOR ARAUJO BARANOV</h1>
+<p></p>
+<p>PORTFÓLIO DE APRENDIZAGEM DE PROJETOS INTEGRADOS</p>
+<p>PROJETOS API 1 A 4</p>
+<p></p>
+<p>São José dos Campos</p>
+<p>2026</p>
+<p></p>
+<h1>Resumo</h1>
+<p>Este portfólio reúne quatro projetos integradores desenvolvidos ao longo da graduação: uma calculadora científica, um gerenciador de horários, uma plataforma de competências e um sistema de gerenciamento de manutenções. O documento apresenta os problemas, as soluções, as tecnologias e a participação do autor nas etapas de requisitos, organização, implementação, testes e documentação.</p>
+<p>Palavras-chave: projetos integradores; desenvolvimento de software; metodologias ágeis; portfólio acadêmico.</p>
+<h1>Sumário</h1>
+<p>1 Introdução</p>
+<p>2 Projetos</p>
+<p>2.1 API-Concord</p>
+<p>2.2 Concord Grid Manager</p>
+<p>2.3 Proficio</p>
+<p>2.4 Trivio</p>
+<p>3 Considerações finais</p>
+<p>Referências</p>
+<p></p>
+<h1>1 Introdução</h1>
+<p>Os projetos integradores aproximam os conteúdos da graduação de situações práticas de desenvolvimento. Em cada semestre, a equipe precisou compreender um problema, organizar as atividades, definir uma solução e entregar uma aplicação ou protótipo funcional. A sequência dos projetos mostra a evolução da experiência com lógica de programação, desenvolvimento web, bancos de dados, documentação e práticas ágeis.</p>
+<p>Este documento apresenta os quatro primeiros projetos selecionados para o portfólio. Em todos eles, a participação ocorreu de forma transversal, com colaboração em diferentes fases do trabalho e adaptação às necessidades da equipe.</p>
+<h2>2.1 API-Concord</h2>
+<p>O API-Concord criou uma calculadora científica em Portugol, com menu para seleção das operações. A aplicação reúne adição, subtração, multiplicação, divisão, fatorial, função de segundo grau, concatenação de strings, juros simples e compostos e conversões entre bases numéricas. Participei do levantamento das necessidades, organização das atividades, implementação, testes e documentação. O projeto fortaleceu minha base de lógica de programação e validação de resultados. Tecnologia: Portugol. Repositório: https://github.com/RichardCordeiro/API-Concord.</p>
+<p>Contribuições pessoais: participei do entendimento do problema, organização das atividades, implementação das operações, testes e documentação.</p>
+<p>Hard skills: lógica de programação, Portugol, estruturas condicionais, funções e GitHub.</p>
+<p>Soft skills: trabalho em equipe, comunicação, organização, resolução de problemas e adaptação.</p>
+<h2>2.2 Concord Grid Manager</h2>
+<p>O Concord Grid Manager organiza horários de aula sem sobreposição, considerando disciplinas, professores, cursos, turmas e a carga semanal. O sistema permite cadastros, montagem da grade, edição manual, validação de conflitos e organização do semestre. Participei do entendimento dos requisitos, backlog, implementação, testes, documentação e revisão das entregas. Tecnologias: JavaFX, Java, Maven, Scene Builder e MySQL. Repositório: https://github.com/Concord-API/API-2.</p>
+<p>Contribuições pessoais: participei do entendimento dos requisitos, backlog, implementação, testes, documentação e revisão das entregas.</p>
+<p>Hard skills: Java, JavaFX, MySQL, modelagem de dados, regras de negócio, Maven e Git.</p>
+<p>Soft skills: trabalho colaborativo, comunicação, organização de sprint, análise de conflitos e documentação técnica.</p>
+<h2>2.3 Proficio</h2>
+<p>O Proficio é uma plataforma de mapeamento de competências, concebida como um LinkedIn interno. Colaboradores mantêm perfis com competências, soft skills, certificações e experiências; gestores podem complementar perfis, buscar habilidades e analisar competências. Participei do levantamento de requisitos, backlog, desenvolvimento, testes, documentação e revisão em três sprints. Tecnologias: Java, Spring, TypeScript, JavaScript, HTML, CSS, MySQL, Docker, Git e GitHub. Repositório: https://github.com/Concord-API/API-3.</p>
+<p>Contribuições pessoais: participei do levantamento de requisitos, priorização do backlog, desenvolvimento, testes, documentação e revisão das entregas.</p>
+<p>Hard skills: Java, Spring, TypeScript, JavaScript, HTML, CSS, MySQL, Docker e desenvolvimento de APIs.</p>
+<p>Soft skills: comunicação, organização de backlog, trabalho em sprints, responsabilidade compartilhada e adaptação.</p>
+<h2>2.4 Trivio</h2>
+<p>O Trivio gerencia manutenções em equipamentos distribuídos globalmente. A solução contempla técnicos, equipamentos, requisitos, prioridades, localizações, manutenções recorrentes, documentação, alertas e mapa. Participei do entendimento do problema, backlog, implementação, testes, documentação e revisão das entregas. Tecnologias: Java, Spring, JavaScript, TypeScript, HTML, CSS, Vue.js, Oracle Database, Docker, Git e GitHub. Repositório: https://github.com/Concord-API/API-4.</p>
+<p>Contribuições pessoais: participei do entendimento do problema, backlog, implementação, testes, documentação e revisão das entregas.</p>
+<p>Hard skills: Java, Spring, Vue.js, JavaScript, TypeScript, Oracle Database, Docker e integração entre camadas.</p>
+<p>Soft skills: trabalho em equipe, planejamento, comunicação técnica, organização de prioridades e resolução de problemas.</p>
+<h1>3 Considerações finais</h1>
+<p>Os quatro projetos mostram uma evolução gradual da minha formação. O primeiro consolidou fundamentos de lógica; os projetos seguintes ampliaram a experiência com regras de negócio, interfaces, bancos de dados, desenvolvimento web, documentação e organização de equipes em sprints.</p>
+<p>A participação em várias etapas desenvolveu comunicação, colaboração, adaptação e resolução de problemas. Trabalhar com demandas diferentes ajudou a compreender que uma boa solução depende da implementação, do entendimento do usuário, da organização do trabalho e da validação das entregas.</p>
+<h1>Referências</h1>
+<p>CORDEIRO, Richard et al. API-Concord. GitHub. Disponível em: https://github.com/RichardCordeiro/API-Concord. Acesso em: 14 out. 2026.</p>
+<p>CONCORD-API. API-2. GitHub. Disponível em: https://github.com/Concord-API/API-2. Acesso em: 14 out. 2026.</p>
+<p>CONCORD-API. API-3. GitHub. Disponível em: https://github.com/Concord-API/API-3. Acesso em: 14 out. 2026.</p>
+<p>CONCORD-API. API-4. GitHub. Disponível em: https://github.com/Concord-API/API-4. Acesso em: 14 out. 2026.</p>
+<p>FATEC PROFESSOR JESSEN VIDAL. Modelo de portfólio de aprendizagem de projetos integrados. São José dos Campos, 2026.</p>
+</body></html>
