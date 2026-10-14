@@ -21,8 +21,8 @@ A aplicação reúne operações básicas, cálculo de fatorial, função de seg
 
 ## Minha contribuição
 
-> Preencher com as funcionalidades e atividades realizadas individualmente.
+Participei de diferentes etapas do projeto, contribuindo para o levantamento das necessidades, a organização das atividades, a implementação das operações da calculadora, os testes e a documentação da solução. Como o desenvolvimento foi colaborativo, atuei conforme as necessidades da equipe em cada etapa.
 
 ## Aprendizados
 
-> Preencher após confirmar os principais desafios e aprendizados.
+O projeto fortaleceu minha base de lógica de programação, decomposição de problemas, trabalho em equipe e validação de entradas e resultados.
