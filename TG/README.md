@@ -1,5 +1,7 @@
 # Portfólio de Projetos Integradores
 
+**Aluno:** João Vitor Araujo Baranov
+
 Este diretório reúne os portfólios dos quatro primeiros projetos integradores desenvolvidos durante a graduação.
 
 ## Projetos
