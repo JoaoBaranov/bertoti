@@ -29,7 +29,7 @@ def h(text, level=1):
 
 title = doc.add_paragraph(style='Title')
 title.alignment = WD_ALIGN_PARAGRAPH.CENTER
-title.add_run('JOÃO VITOR BARANOV')
+title.add_run('JOÃO VITOR ARAUJO BARANOV')
 for text in ['', 'PORTFÓLIO DE APRENDIZAGEM DE PROJETOS INTEGRADOS', 'PROJETOS API 1 A 4', '', 'São José dos Campos', '2026']:
     para(text, True)
 doc.add_page_break()
