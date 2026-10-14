@@ -12,16 +12,20 @@ O projeto trata da criação de uma grade de horários acadêmicos, considerando
 
 ## Solução desenvolvida
 
-> Completar com as funcionalidades confirmadas no repositório e na apresentação do projeto.
+O sistema permite cadastrar, editar e excluir disciplinas, professores, cursos e turmas. Também oferece a montagem e a visualização da grade, edição manual antes da publicação, validação de conflitos de horários e organização do semestre letivo.
 
 ## Tecnologias
 
-> Completar a partir do projeto final.
+- JavaFX
+- Java
+- Maven
+- Scene Builder
+- MySQL
 
 ## Minha contribuição
 
-> Preencher com as funcionalidades e atividades realizadas individualmente.
+Atuei como desenvolvedor da equipe. As funcionalidades específicas sob minha responsabilidade devem ser confirmadas a partir do histórico de commits e das entregas das sprints.
 
 ## Aprendizados
 
-> Preencher após confirmar os principais desafios e aprendizados.
+O projeto desenvolveu conhecimentos sobre aplicações desktop, modelagem de dados, regras para evitar conflitos de agenda e organização de funcionalidades em sprints.
