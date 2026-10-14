@@ -5,7 +5,7 @@
 - Projeto: API-Concord
 - Repositório: [RichardCordeiro/API-Concord](https://github.com/RichardCordeiro/API-Concord)
 - Período: a confirmar
-- Equipe: Victor Nogueira, Richard Cordeiro, João Baranov, Fabiano Ribeiro, Marco Godoi e Carlos Costa
+- Equipe: Victor Nogueira, Richard Cordeiro, João Vitor Araujo Baranov, Fabiano Ribeiro, Marco Godoi e Carlos Costa
 
 ## Contexto e problema
 
