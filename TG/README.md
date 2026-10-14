@@ -4,6 +4,19 @@
 
 Este diretório reúne os portfólios dos quatro primeiros projetos integradores desenvolvidos durante a graduação.
 
+## Sobre o portfólio
+
+O portfólio registra a evolução técnica e profissional construída nos projetos integradores. Cada relato apresenta o problema trabalhado, a solução entregue pela equipe, as tecnologias utilizadas, as contribuições pessoais e as competências desenvolvidas.
+
+## Projetos
+
+| Projeto | Tema | Repositório |
+|---|---|---|
+| API-Concord | Calculadora científica em Portugol | [Acessar](portfolio-01-api-concord.md) |
+| Concord Grid Manager | Gerenciamento de horários de aula | [Acessar](portfolio-02-concord-grid-manager.md) |
+| Proficio | Mapeamento de competências | [Acessar](portfolio-03-proficio.md) |
+| Trivio | Gerenciamento de manutenções | [Acessar](portfolio-04-trivio.md) |
+
 ## Projetos
 
 1. [API-Concord](portfolio-01-api-concord.md)
