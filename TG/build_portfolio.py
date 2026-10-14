@@ -54,6 +54,22 @@ projetos = [
 for title_text, body in projetos:
     h(title_text, 2)
     para(body)
+    if title_text.startswith('2.1'):
+        para('Contribuições pessoais: participei do entendimento do problema, organização das atividades, implementação das operações, testes e documentação.')
+        para('Hard skills: lógica de programação, Portugol, estruturas condicionais, funções e GitHub.')
+        para('Soft skills: trabalho em equipe, comunicação, organização, resolução de problemas e adaptação.')
+    elif title_text.startswith('2.2'):
+        para('Contribuições pessoais: participei do entendimento dos requisitos, backlog, implementação, testes, documentação e revisão das entregas.')
+        para('Hard skills: Java, JavaFX, MySQL, modelagem de dados, regras de negócio, Maven e Git.')
+        para('Soft skills: trabalho colaborativo, comunicação, organização de sprint, análise de conflitos e documentação técnica.')
+    elif title_text.startswith('2.3'):
+        para('Contribuições pessoais: participei do levantamento de requisitos, priorização do backlog, desenvolvimento, testes, documentação e revisão das entregas.')
+        para('Hard skills: Java, Spring, TypeScript, JavaScript, HTML, CSS, MySQL, Docker e desenvolvimento de APIs.')
+        para('Soft skills: comunicação, organização de backlog, trabalho em sprints, responsabilidade compartilhada e adaptação.')
+    else:
+        para('Contribuições pessoais: participei do entendimento do problema, backlog, implementação, testes, documentação e revisão das entregas.')
+        para('Hard skills: Java, Spring, Vue.js, JavaScript, TypeScript, Oracle Database, Docker e integração entre camadas.')
+        para('Soft skills: trabalho em equipe, planejamento, comunicação técnica, organização de prioridades e resolução de problemas.')
 
 h('3 Considerações finais')
 para('Os quatro projetos mostram uma evolução gradual da minha formação. O primeiro consolidou fundamentos de lógica; os projetos seguintes ampliaram a experiência com regras de negócio, interfaces, bancos de dados, desenvolvimento web, documentação e organização de equipes em sprints.')
