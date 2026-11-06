@@ -61,23 +61,31 @@ A equipe desenvolveu uma calculadora científica em Portugol com menu de escolha
 
 #### Contribuições pessoais
 
-Participei do entendimento do problema, da organização das atividades, da implementação das operações, dos testes e da documentação. Trabalhei em conjunto com Richard e os demais integrantes, revisando a lógica e conferindo os resultados apresentados pelo menu.
+**Organização das entregas:** ajudei a dividir o trabalho em partes menores, alinhei com Richard e os demais integrantes quais operações seriam implementadas e acompanhei a evolução de cada arquivo.
+
+**Implementação da calculadora:** participei da criação e revisão das funções de operações básicas, fatorial, função de segundo grau, juros, concatenação e conversões de base, verificando se cada função recebia os dados corretos e devolvia um resultado compreensível.
+
+**Validação dos resultados:** executei diferentes combinações de entradas, conferi cálculos e ajudei a identificar situações inválidas, como divisões inadequadas e caracteres incompatíveis com a base informada.
+
+**Documentação e integração:** contribuí para explicar as funcionalidades no README e para integrar as partes produzidas pelos integrantes em uma entrega única.
 
 #### Hard skills
 
-- Lógica de programação;
-- Portugol e Visualg;
-- Estruturas condicionais e de repetição;
-- Funções e validação de resultados;
-- Git e GitHub.
+- **Lógica de programação:** aplicada na decomposição de cada operação em etapas menores e na definição do fluxo do menu.
+- **Portugol e Visualg:** utilizados para escrever, executar e depurar os algoritmos da calculadora.
+- **Estruturas condicionais e de repetição:** usadas para selecionar operações, repetir cálculos e controlar entradas inválidas.
+- **Funções e validação de resultados:** aplicadas para separar responsabilidades e conferir os resultados matemáticos.
+- **Git e GitHub:** utilizados para organizar arquivos, acompanhar alterações e integrar as entregas da equipe.
 
 #### Soft skills
 
-**Colaboração:** dividi tarefas com a equipe e ajudei a integrar as partes desenvolvidas separadamente.
+**Colaboração:** dividi tarefas com a equipe, ajudei a revisar funções e integrei partes desenvolvidas separadamente.
 
-**Comunicação:** alinhei decisões e resultados com os integrantes durante as entregas.
+**Comunicação:** alinhei decisões sobre regras matemáticas, entradas e resultados com Richard e os demais integrantes durante as entregas.
 
-**Organização:** acompanhei as atividades e a documentação do projeto.
+**Organização:** acompanhei as atividades, mantive a divisão das funcionalidades clara e contribuí para a documentação do projeto.
+
+**Resolução de problemas:** investiguei resultados incorretos comparando a lógica implementada com os cálculos esperados e ajustando o fluxo das funções.
 
 [Repositório do projeto](https://github.com/RichardCordeiro/API-Concord)
 
@@ -117,23 +125,33 @@ O Concord Grid Manager é uma aplicação desktop para gerenciar a grade de hor�
 
 #### Contribuições pessoais
 
-Participei do entendimento dos requisitos, da organização do backlog, da implementação, dos testes, da documentação e da revisão das entregas. Colaborei com Richard e os demais integrantes na construção das regras de horários e na validação das funcionalidades.
+**Levantamento e organização dos requisitos:** ajudei a transformar o problema da montagem manual de grades em histórias de usuário para cadastro, edição, visualização e validação.
+
+**Construção da aplicação:** participei do desenvolvimento das telas, dos fluxos de cadastro e da organização da grade, colaborando com Richard na integração entre as partes da aplicação.
+
+**Regras de conflito:** ajudei a revisar a regra que impede a alocação do mesmo professor em duas aulas no mesmo horário e conferi cenários de edição, em que a própria aula não deve ser tratada como conflito.
+
+**Testes e revisão:** testei cadastros, alterações, exclusões e montagem da grade, além de revisar as entregas dos integrantes antes da integração.
+
+**Documentação:** contribuí para o guia de instalação, o manual de uso e a descrição das histórias de usuário.
 
 #### Hard skills
 
-- Java e JavaFX;
-- MySQL e modelagem de dados;
-- Regras de negócio;
-- Maven;
-- Git e GitHub.
+- **Java e JavaFX:** utilizados para implementar a aplicação desktop, as telas e os eventos de interação.
+- **MySQL e modelagem de dados:** utilizados para persistir cursos, professores, disciplinas, turmas e horários relacionados.
+- **Regras de negócio:** aplicadas na validação de conflitos, carga semanal e vínculo entre semestre, disciplinas e horários.
+- **Maven:** utilizado para organizar dependências e o processo de build.
+- **Git e GitHub:** utilizados para trabalhar em conjunto, revisar alterações e integrar as entregas.
 
 #### Soft skills
 
-**Colaboração:** ajudei na integração das tarefas e na revisão das entregas.
+**Colaboração:** ajudei na integração das tarefas, apoiei Richard e os demais integrantes e revisei as entregas antes da integração.
 
-**Atenção aos detalhes:** conferi regras de conflito e consistência dos cadastros.
+**Atenção aos detalhes:** conferi conflitos de professor, campos obrigatórios, consistência dos cadastros e comportamento da grade após edições.
 
-**Autodidatismo:** aprendi ferramentas de interface desktop conforme as necessidades do projeto.
+**Autodidatismo:** aprendi JavaFX e Scene Builder conforme as necessidades do projeto e apliquei esse conhecimento nas telas e fluxos entregues.
+
+**Responsabilidade:** acompanhei tarefas até a validação final, ajudando a evitar que uma funcionalidade incompleta fosse integrada.
 
 [Repositório do projeto](https://github.com/Concord-API/API-2)
 
@@ -174,25 +192,37 @@ O Proficio funciona como um LinkedIn interno. Colaboradores mantêm perfis com c
 
 #### Contribuições pessoais
 
-Participei do levantamento de requisitos, da priorização do backlog, do desenvolvimento, dos testes, da documentação e da revisão das entregas. Trabalhei em conjunto com Richard nas decisões técnicas, nos ajustes de integração e na evolução das funcionalidades durante as três sprints.
+**Levantamento de requisitos:** ajudei a compreender as necessidades da ALTAVE e a transformar o problema de identificação de talentos em funcionalidades de perfis, skills, avaliações, filtros e dashboards.
+
+**Backlog e sprints:** participei da priorização das histórias, da divisão das tarefas e do acompanhamento das três sprints, mantendo o escopo visível para Richard e os demais integrantes.
+
+**Desenvolvimento e integração:** contribuí na implementação das funcionalidades da plataforma e nos ajustes necessários para integrar frontend, backend e banco de dados.
+
+**Revisão de código:** analisei implementações, conferi nomes, fluxos e respostas esperadas e ajudei a corrigir problemas antes da integração das branches.
+
+**Testes e documentação:** executei cenários de cadastro, edição, busca e avaliação e contribuí para guias, descrições de uso e documentação das entregas.
 
 #### Hard skills
 
-- Java e Spring;
-- TypeScript e JavaScript;
-- HTML, CSS e Tailwind;
-- MySQL;
-- Docker;
-- Desenvolvimento de APIs e aplicações web;
-- Git e GitHub.
+- **Java e Spring:** utilizados para estruturar o backend, as regras de negócio e os endpoints da plataforma.
+- **TypeScript e JavaScript:** utilizados para implementar interações, formulários e integrações do frontend.
+- **HTML, CSS e Tailwind:** utilizados para organizar e estilizar telas de perfil, busca e dashboards.
+- **MySQL:** utilizado para armazenar usuários, skills, equipes, setores e avaliações relacionados.
+- **Docker:** utilizado para padronizar o ambiente e facilitar a execução por diferentes integrantes.
+- **Desenvolvimento de APIs e aplicações web:** aplicado na comunicação entre as telas, os serviços e o banco de dados.
+- **Git e GitHub:** utilizados para branches, revisão, integração e rastreamento das tarefas.
 
 #### Soft skills
 
-**Comunicação:** alinhei decisões técnicas e ajustes de integração com a equipe.
+**Comunicação:** alinhei decisões técnicas, requisitos e ajustes de integração com Richard e os demais integrantes.
 
-**Colaboração:** apoiei colegas e participei da revisão das implementações.
+**Colaboração:** apoiei colegas em dificuldades de implementação e participei da revisão das implementações antes dos merges.
 
-**Organização:** acompanhei o backlog e as entregas de cada sprint.
+**Organização:** acompanhei o backlog, as prioridades e os critérios de entrega de cada sprint.
+
+**Pensamento analítico:** relacionei as necessidades de busca e avaliação com os dados que precisavam ser armazenados e exibidos nos dashboards.
+
+**Autodidatismo:** busquei compreender tecnologias e padrões novos para contribuir nas decisões técnicas e nos ajustes do sistema.
 
 [Repositório do projeto](https://github.com/Concord-API/API-3)
 
@@ -233,24 +263,38 @@ O Trivio é uma plataforma web de gerenciamento de manutenções. O sistema perm
 
 #### Contribuições pessoais
 
-Participei do entendimento do problema, da organização do backlog, da implementação, dos testes, da documentação e da revisão das entregas. Trabalhei em conjunto com Richard e a equipe nas funcionalidades de equipamentos, técnicos e manutenções, além dos ajustes feitos durante as sprints.
+**Entendimento do processo:** ajudei a mapear o ciclo completo da manutenção, desde o cadastro do equipamento e do contrato até a execução e o registro do serviço.
+
+**Backlog e planejamento:** participei da divisão das histórias entre as três sprints, considerando prioridade, dependências entre funcionalidades e necessidade de validação com a equipe.
+
+**Funcionalidades de manutenção:** contribuí nas funcionalidades de equipamentos, técnicos, agenda, recorrência e acompanhamento das manutenções, trabalhando em conjunto com Richard e os demais integrantes.
+
+**Integração entre camadas:** ajudei a conferir a comunicação entre frontend, backend e Oracle Database, verificando se os dados exibidos nas telas correspondiam às regras do sistema.
+
+**Testes e revisão:** testei fluxos de cadastro, agendamento, alteração de status e consulta, além de revisar entregas e apoiar correções durante as sprints.
+
+**Documentação:** contribuí para o manual, o guia de instalação e a descrição das funcionalidades apresentadas nas entregas.
 
 #### Hard skills
 
-- Java e Spring Boot;
-- Vue.js, TypeScript e JavaScript;
-- Oracle Database;
-- Docker;
-- Integração entre frontend e backend;
-- Git e GitHub.
+- **Java e Spring Boot:** utilizados para implementar a API, regras de negócio e serviços de manutenção.
+- **Vue.js, TypeScript e JavaScript:** utilizados para construir telas, filtros, calendário e área do técnico.
+- **Oracle Database:** utilizado para persistir clientes, contratos, equipamentos, técnicos e manutenções.
+- **Docker:** utilizado para padronizar o ambiente e apoiar a publicação da aplicação.
+- **Integração entre frontend e backend:** aplicada para conectar formulários, consultas, agenda e status das manutenções.
+- **Git e GitHub:** utilizados para branches, revisão de código, documentação e integração das sprints.
 
 #### Soft skills
 
-**Trabalho em equipe:** colaborei na integração das funcionalidades e na revisão das entregas.
+**Trabalho em equipe:** colaborei na integração das funcionalidades, apoiei Richard e os demais integrantes e participei das revisões.
 
-**Planejamento:** acompanhei prioridades e atividades do backlog.
+**Planejamento:** acompanhei prioridades, dependências e atividades do backlog para manter as entregas das sprints viáveis.
 
-**Comunicação técnica:** participei de decisões sobre integração, requisitos e correções.
+**Comunicação técnica:** participei de decisões sobre integração, requisitos, correções e comportamento esperado das telas.
+
+**Visão de processo:** considerei o fluxo do usuário e a sequência operacional da manutenção, em vez de tratar cada tela como uma funcionalidade isolada.
+
+**Resolução de problemas:** investiguei inconsistências entre dados, regras e interface e colaborei para encontrar correções aplicáveis.
 
 [Repositório do projeto](https://github.com/Concord-API/API-4)
 
@@ -260,12 +304,10 @@ Os quatro projetos mostram a evolução da minha formação: lógica de programa
 
 A participação conjunta com Richard Cordeiro e os demais integrantes desenvolveu minhas competências técnicas e interpessoais. Aprendi a trabalhar com diferentes tecnologias, dividir responsabilidades, revisar código, documentar entregas e adaptar a solução conforme os requisitos do projeto.
 
-## Arquivos complementares
+## Referências
 
-- [Portfólio detalhado do projeto 1](portfolio-01-api-concord.md)
-- [Portfólio detalhado do projeto 2](portfolio-02-concord-grid-manager.md)
-- [Portfólio detalhado do projeto 3](portfolio-03-proficio.md)
-- [Portfólio detalhado do projeto 4](portfolio-04-trivio.md)
-- [Referências](referencias.md)
-- [Documento Word](portfolio-academico.docx)
-- [Documento compatível com Word](portfolio-academico.doc)
+- [API-Concord](https://github.com/RichardCordeiro/API-Concord)
+- [API-2 — Concord Grid Manager](https://github.com/Concord-API/API-2)
+- [API-3 — Proficio](https://github.com/Concord-API/API-3)
+- [API-4 — Trivio](https://github.com/Concord-API/API-4)
+- [FATEC Professor Jessen Vidal](https://www.fatecsp.br/)
